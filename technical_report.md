@@ -129,7 +129,7 @@ statistical test rather than period averages.
 **Data.** nflverse. *nfldata: games.csv* (GitHub repository dataset file). Retrieved February 18, 2026,
 from <https://github.com/nflverse/nfldata/raw/master/data/games.csv>
 
-**Code.** <https://github.com/HPAuncc/DTSC-2301-Project-1>
+**Code.** <https://github.com/hamptonabbott/DTSC-2301-Project-1>
 
 **AI transparency.** ChatGPT was used as a support tool to polish written explanations for clarity and
 as a teaching aid during web development (explaining concepts, troubleshooting). It was not used to
